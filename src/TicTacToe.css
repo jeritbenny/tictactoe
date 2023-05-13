@@ -1,0 +1,30 @@
+table td{
+    border: 3px solid rgb(255, 253, 253);
+    background-color: rgb(18, 18, 11);
+    width:100px;
+    height: 100px;
+    color: #f40101;
+    font-size: 50px;
+    font-family: cursive;
+    text-align: center;
+    
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+#btn{
+    margin-top: 10px;
+    border: 3px solid orangered;
+    border-radius: 10px;
+    color: #f40101;
+    padding-top: 4px;
+    padding-bottom: 3px;
+    font-weight: bolder;
+    margin-bottom: 10px;
+}

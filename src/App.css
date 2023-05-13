@@ -1,0 +1,28 @@
+body{
+   
+    background-color:rgb(15, 14, 14);
+}
+#head{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+    font-size: 52px;
+    background: linear-gradient(
+         black,orange, #ff6b08,
+         black);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    
+}
+#head1{
+    margin-top: 0px;
+    text-align: center;
+    font-size: 22px;
+    margin: 0px;  
+    background: linear-gradient( to right,
+    green,rgb(32, 190, 8), #ff6b08,
+        rgb(199, 12, 12));
+   -webkit-text-fill-color: transparent;
+   -webkit-background-clip: text;
+
+}
